@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: IOANNIS MYRONIS
-    tagline: Full Stack Developer
+    
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -59,8 +59,7 @@ experiences:
       company: HCAA
       details: |
         
-          - Bullet point
-          - Bullet point
+         
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
