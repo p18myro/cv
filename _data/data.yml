@@ -15,8 +15,7 @@ sidebar:
     email: p18myro@ionio.gr
     phone: 210 45 50618      
     github: p18myro
-    telegram: # add your nickname without '@' sign
-   
+       
 
     languages:
       - idiom: Greek
@@ -27,11 +26,8 @@ sidebar:
       
 
     interests:
-      - item: Running
-        link:
-
-      - item: Travelling
-        link:
+      - item: Running  
+      - item: Travelling    
 
      
 
