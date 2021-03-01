@@ -29,13 +29,16 @@ sidebar:
       - item: Running  
       - item: Travelling    
 
-     
+career-profile:
+    title: Career Profile
+    summary: |
+        Technician with over ten years of experience working in HCCA in the field of Air Navigation Systems. Undergraduate studies in the Department of Informatics – Ionian University.
 
 
       
 education:
     - degree: Electronic Engineer 
-      university:   University of Athens
+      university:   University of West Attica - Department of Electronics
       time: 1998 - 2002
       
    
