@@ -43,6 +43,12 @@ education:
       
    
 experiences:
+    - role: Electronic Engineer
+      time: 2005 - 2009
+      company: Guard Alarm Systems
+      details: |
+
+
     - role: ATSEP
       time: 2009 - Present
       company: HCAA
@@ -52,11 +58,23 @@ experiences:
         
          
    
-projects:
-    -role:
-   
-publications:
-    
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Matlab
+        level: 85%
+
+      - name: C Programming
+        level: 100%
+        
+      - name: Java
+        level: 90%
+
+      - name: Electronics Workbench
+        level: 90%
+
+     
 
 
 footer: >
