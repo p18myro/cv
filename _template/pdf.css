@@ -1,5 +1,6 @@
 @page {
-  margin: -1cm; /* Set margin on each page */
+  margin: 1cm; /* Set margin on each page */
   padding: 0cm; /* Set padding on each page */
+  size: Letter;
 }
 
